@@ -552,7 +552,7 @@ Let’s initiate a comprehensive cleanup.
 Navigate to VS Code’s PowerShell command line and execute the following command, or alternatively, access the directory where you have provisioned the EC2 instance.
 
 ```
-terraform destroy --auto-approve
+sudo terraform destroy --auto-approve
 ```
 ---
 
